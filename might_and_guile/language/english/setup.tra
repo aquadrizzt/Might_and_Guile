@@ -2531,3 +2531,40 @@ Using this Tome will allow the reader to engage in a career as a Ranger/Thief.
 
 [WARNING: activation of this item cannot be reversed. Save before doing so.]
 ~
+
+@5381 = ~paladin/mage~
+@5382 = ~Paladin/Mage~
+@5383 = ~PALADIN/MAGE: Deities of magic sometimes incorporate the study of arcane magic into their paladins' training, often at the detriment of those paladins' priestly abilities. Paladin/Mages are formidable enemies, able to combine martial prowess with both arcane and divine magic. 
+
+Abilities:
+– May use Detect Evil and Protection from Evil innately just like any paladin. 
+– Gains a +2 bonus to all saving throws. 
+– Automatically learns the following priest spells in their wizard spellbook: 
+Level 1: Armor of Faith, Command, Cure Light Wounds
+Level 2: Aid, Draw Upon Holy Might, Silence (15' Radius)
+Level 3: Cure Medium Wounds, Holy Smite, Strength of One 
+Level 4: Defensive Harmony, Lesser Restoration, Protection from Evil (10' Radius) 
+
+Restrictions:
+– 15% experience point penalty.
+– Must be Lawful Good.~
+
+@5385 = ~Tome of the Mageknight~ 
+@5386 = ~Using this Tome will allow the reader to engage in a career as a Paladin/Mage.
+
+PALADIN/MAGE: Deities of magic sometimes incorporate the study of arcane magic into their paladins' training, often at the detriment of those paladins' priestly abilities. Paladin/Mages are formidable enemies, able to combine martial prowess with both arcane and divine magic. 
+
+Abilities:
+– May use Detect Evil innately just like any paladin. 
+– Gains a +2 bonus to all saving throws. 
+– Automatically learns the following priest spells in their wizard spellbook: 
+Level 1: Armor of Faith, Command, Cure Light Wounds
+Level 2: Aid, Draw Upon Holy Might, Silence (15' Radius)
+Level 3: Cure Medium Wounds, Holy Smite, Strength of One 
+Level 4: Defensive Harmony, Lesser Restoration, Protection from Evil (10' Radius) 
+
+Restrictions:
+– 15% experience point penalty.
+– Must be Lawful Good.
+
+[WARNING: activation of this item cannot be reversed. Save before doing so.]~
