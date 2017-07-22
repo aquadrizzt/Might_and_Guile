@@ -74,6 +74,7 @@
         <li> <b>Thug</b> - for fighter/thieves.</li>
         <li> <b>Tomb Runner</b> - for fighter/thieves.</li>
         <li> <b>Ranger/Thief</b> - for fighter/thieves.</li>
+	<li> <b>Paladin/Mage</b> - for human fighter/mages.</li>
       </ul>
       <div class="kit_description">
         <p>ELVEN BLADESINGER: Among the Elven nations there is an order of warriors who wield power matched by few.  Combining martial skill with magical prowess, Bladesingers have the resources to face nearly any threat.  They master the use of long blades wielded in one hand, keeping the other free for spellcasting.</p>
@@ -148,6 +149,14 @@
           &ndash; Reduced backstab multiplier progression, matching that of a Stalker.<br />
           &ndash; 15% experience point penalty.<br />
           &ndash; Limited to Good alignments.<br />.</p>
+      </div>
+      <p>PALADIN/MAGE: Like ranger/mage but more priestly! This is an approximation; you could get closer with a F/M/C multiclass, but those are slow. You begin as a Fighter/Mage and then you gain a host of appropriate priest spells in your mage spellbook. 
+        <p>Abilities:<br />
+          &ndash; +2 bonus to saving throws.<br />
+          &ndash; May cast Detect Evil and Protection from Evil innately, and has 3 priest spells each of levels 1-4 automatically added to the wizard spellbook.</p>
+        <p>Restrictions:<br />
+          &ndash; 15% experience point penalty.<br />
+          &ndash; Limited to Lawful Good.<br />.</p>
       </div>
   </div>
   <h4 class="subheader">Component 200 (for EE 1.4+): </h4>
